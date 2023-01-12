@@ -1,6 +1,7 @@
 <!-- ### Hi there 👋 -->
 <div id="header" align="center">
-    <h1 align="center">Hi 👋, I'm Douglas Hernández</h1>
+    <h1 align="center">Hi 👋, I'm Douglas Hernández</h1>    
+    <img src="https://cdn.cp.adobe.io/content/2/dcx/42d221e5-007e-43a7-be99-938ad6d67efb/rendition/preview.jpg/version/1/format/jpg/dimension/width/size/1200" alt="banner">
     <h3 aling="center">Hi, I'm Douglas and I'm Junior Developer de Nicaragua
         I'm been practicing programming for over 4 years and I'm always learning and always improving!
         My goals are to help people  and creating software that people find useful.
@@ -17,7 +18,11 @@
 - ⚡ Fun fact: I like the videogames
 
 ---
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Douglas-i)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Douglass/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/douglashdz27//)  
 
+<!-- <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>  -->
+
+---
 <div aling="center">
     <h3> 🛠️ Languajes and Tools:</h3>
     <div>
@@ -30,6 +35,27 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" alt="mysql" title="mysql" width="40" height="40">
     </div>
 </div>
+
+<!-- ------------- Probando una segunda versión -------------  -->
+
+<!-- ### Hi there 👋, My name is Douglas
+#### I am Junior Developer from Nicaragua
+![I am Junior Developer from Nicaragua](https://cdn.cp.adobe.io/content/2/dcx/42d221e5-007e-43a7-be99-938ad6d67efb/rendition/preview.jpg/version/1/format/jpg/dimension/width/size/1200)
+
+I'm been practicing programming for over 3 years and I'm always learning and always improving! My goals are to help people and creating software that people find useful.
+
+Skills: / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Douglas-i)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Douglass/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/douglashdz27//)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Douglas-i)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/Douglas-i)   -->
 
 <!--
 **Douglas-i/Douglas-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
