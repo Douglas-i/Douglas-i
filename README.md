@@ -1,10 +1,11 @@
 <!-- ### Hi there 👋 -->
 <div id="header" align="center">
     <h1 align="center">Hi 👋, I'm Douglas Hernández</h1>    
-    <img src="https://cdn.cp.adobe.io/content/2/dcx/42d221e5-007e-43a7-be99-938ad6d67efb/rendition/preview.jpg/version/1/format/jpg/dimension/width/size/1200" alt="banner">
-    <h3 aling="center">Hi, I'm Douglas and I'm Junior Developer de Nicaragua
-        I'm been practicing programming for over 4 years and I'm always learning and always improving!
-        My goals are to help people  and creating software that people find useful.
+    <img src="https://cdn.cp.adobe.io/content/2/dcx/42d221e5-007e-43a7-be99-938ad6d67efb/rendition/preview.jpg/version/1/format/jpg/dimension/width/size/1200" alt="banner">    
+     <h3 aling="center">
+        Hi, I'm Douglas and I'm a junior developer from Nicaragua. 
+        I've been programming for over 4 years and I'm constantly learning and improving! 
+        One of my goals is helping people by creating softwares people will find useful.
     </h3>
 </div>
 
