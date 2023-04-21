@@ -29,6 +29,7 @@
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML" title="HTML5" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css3" title="css3" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="css3" title="css3" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" title="javascript" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="java" title="java" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="java" title="java" width="40" height="40">
