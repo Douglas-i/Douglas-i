@@ -4,17 +4,15 @@
     <img src="https://cdn.cp.adobe.io/content/2/dcx/42d221e5-007e-43a7-be99-938ad6d67efb/rendition/preview.jpg/version/1/format/jpg/dimension/width/size/1200" alt="banner">    
      <h3 aling="center">
         Hi, I'm Douglas and I'm a junior developer from Nicaragua. 
-        I've been programming for over 4 years and I'm constantly learning and improving! 
-        One of my goals is helping people by creating softwares people will find useful.
+        I've been programming for over 4 years and I'm constantly learning and improving!
     </h3>
 </div>
 
 ---
 ### 📖About Me: 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning PHP, SASS, MYSQL
+- 🌱 I’m currently learning Angular, .NET
 - 👯 I’m looking to collaborate on in what I can
-- 💬 Ask me about CSS, HTML Y JS
 - 📫 How to reach me: hdouglasu@gmail.com
 - ⚡ Fun fact: I like the videogames
 
