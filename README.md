@@ -1,12 +1,14 @@
 <!-- ### Hi there 👋 -->
 <div id="header" align="center">
     <h1 align="center">Hi 👋, I'm Douglas Hernández</h1>    
-    <img src="https://cdn.cp.adobe.io/content/2/dcx/42d221e5-007e-43a7-be99-938ad6d67efb/rendition/preview.jpg/version/1/format/jpg/dimension/width/size/1200" alt="banner">    
+    <!--(url)<img src="https://cdn.cp.adobe.io/content/2/dcx/42d221e5-007e-43a7-be99-938ad6d67efb/rendition/preview.jpg/version/1/format/jpg/dimension/width/size/1200" alt="banner"> -->
      <h3 aling="center">
         Hi, I'm Douglas and I'm a junior developer from Nicaragua. 
         I've been programming for over 4 years and I'm constantly learning and improving!
     </h3>
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglas-i&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### 📖About Me: 
